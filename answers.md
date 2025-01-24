@@ -66,5 +66,13 @@ Answer 9: On branch main
 
         nothing to commit, working tree clean
 
+Answer 10: No, the changes made on the GitHub page were not reflected on my local machine.
+
+Answer 11: When trying to push to the main branch, it tells me my branch is behind.
+
+Answer 12: Yes, once I typed "git pull" my online changes were reflected locally.
+
+Answer 13: ls -a
+.  ..  .git  .gitignore  README.md
 
 
